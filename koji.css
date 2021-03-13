@@ -19,7 +19,7 @@ body {
 
 /* Adapted from account services */
 #mainNav {
-    background-color #81c1ac;
+    background-color #7C0000;
     font-size: 12px;
     font-weight: bold;
     margin: 0 auto;
@@ -38,10 +38,10 @@ body {
     display: block;
     /*float: center;*/
     padding: 0px;
-    margin: 5px;
+    margin: 2px;
     border-style: solid;
     border-width: 0px;
-    border-color: #81c1ac;
+    border-color: #7C0000;
 }
 
 #mainNav ul li a {
@@ -55,7 +55,7 @@ body {
 #mainNav ul li a:hover {
     color: #fff;
     background-color: #5eac93;
-    border-color: #81c1ac;
+    border-color: #7C0000;
 }
 
 body#summary #mainNav li#summaryTab a,
@@ -70,7 +70,7 @@ body#reports #mainNav li#reportsTab a,
 body#search #mainNav li#searchTab a {
     background-color: #ecf5f3;
     color: #5eac93;
-    border-color: #81c1ac;
+    border-color: #7C0000;
     -webkit-border-top-left-radius: 5px;
     -webkit-border-top-right-radius: 5px;
     -moz-border-radius-topleft: 5px;
@@ -80,9 +80,9 @@ body#search #mainNav li#searchTab a {
 }
 
 .btn-primary,
-.btn-outline-primary { color: #5eac93; background-color: #fff; border-color: #81c1ac; }
+.btn-outline-primary { color: #5eac93; background-color: #fff; border-color: #7C0000; }
 .btn-outline-primary:hover,
-.btn-primary:hover { color: #fff; background-color: #5eac93; border-color: #81c1ac; }
+.btn-primary:hover { color: #fff; background-color: #5eac93; border-color: #7C0000; }
 
 a, .btn-link {
     /*text-decoration: none;*/
@@ -91,7 +91,7 @@ a, .btn-link {
 
 a:hover, .btn-link {
     text-decoration: underline;
-    color: #81c1ac;
+    color: #7C0000;
 }
 
 .text-info { color: #88d0ba; }
@@ -206,7 +206,7 @@ h4 {
 }
 
 h4 a {
-    color: #81c1ac !important;
+    color: #7C0000 !important;
 }
 
 table {
