@@ -2,6 +2,10 @@
 @import url('https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
 /* 
   Koji styling
+
+  Authors:
+    Tommy Nguyen <remyabel@gmail.com>
+    Louis Abel <label@rockylinux.org>
 */
 
 html {
@@ -206,7 +210,7 @@ h4 {
 }
 
 h4 a {
-    color: #81c1ac !important;
+    color: #fff;
 }
 
 table {
