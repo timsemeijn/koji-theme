@@ -33,7 +33,7 @@ body {
 }
 
 #mainNav ul li {
-    background-color: #ecf5f3;
+    background-color: #F3ECF6;
     color: #724AB0;
     display: block;
     /*float: center;*/
@@ -68,7 +68,7 @@ body#hosts #mainNav li#hostsTab a,
 body#buildtargets #mainNav li#buildtargetsTab a,
 body#reports #mainNav li#reportsTab a,
 body#search #mainNav li#searchTab a {
-    background-color: #ecf5f3;
+    background-color: #F3ECF6;
     color: #724AB0;
     border-color: #5B3B8C;
     -webkit-border-top-left-radius: 5px;
